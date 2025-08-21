@@ -4,6 +4,8 @@ Click here >> https://jg5rqejgemadh6ewrlfnkl.streamlit.app/ to go to the app.
 ### Instruction
 Please download the csv file provided above (Superstore.csv) and upload it in the app.
 
+st.markdown("---")
+
 ### 📊 Superstore Dashboard – Project Description
 
 The Superstore Dashboard is an interactive business tool designed to help people easily explore and understand sales, customer, and order information from retail data.
