@@ -7,7 +7,7 @@ Click here >> https://jg5rqejgemadh6ewrlfnkl.streamlit.app/ to go to the app.
 Please download the csv file provided above (Superstore.csv) and upload it in the app.
 
 #### * Video Explanation
-Click here to watch the video explanation >> https://drive.google.com/file/d/1mN13QsxEOXReRr3Wgf7T35k3bQmHdeoE/view
+Click here to watch the video explanation >> https://drive.google.com/file/d/1QaK9L59ifOqLgDDdGIodqO2tQJi-nz3R/view
 
 ----------------------------------------------------------------------------------------------------------------------
 
